@@ -1,0 +1,11 @@
+{
+    "app":{
+        "name": "BoilerPlate"
+    },
+    "db": {
+        "host": ""
+    },
+    "jwt": {
+        "key": ""
+    }
+}
